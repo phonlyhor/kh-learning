@@ -4,7 +4,7 @@ const grade10 = [
     classId: 10,
     subjectId: 5,
     title: "សៀវភៅសិក្សាគោល ជីវវិទ្យា ថ្នាក់ទី១០",
-    pdf: "https://drive.google.com/file/d/1Ssqoj2Oi2lVcoQAs1wQ51oF7xI-EGq7i/preview",
+    pdf: "https://drive.google.com/file/d/1Lu4L8M1tHEtb2Jr8ZivW5kDfJLW2AJ8K/preview",
     author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
     content: {
       intro: "សៀវភៅសិក្សាគោលជីវវិទ្យាថ្នាក់ទី១០ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា ផ្ដោតលើការយល់ដឹងពីជីវិតកោសិកា កោសិកាអឺការីយ៉ូត ប្រព័ន្ធសរីរាង្គ និងកាយវិភាគវិទ្យាជាមូលដ្ឋាន។",
@@ -50,7 +50,7 @@ const grade10 = [
     classId: 10,
     subjectId: 1,
     title: "សៀវភៅសិក្សាគោល ភាសាខ្មែរ ថ្នាក់ទី១០",
-    pdf: "https://drive.google.com/file/d/13cc1SWiQCMZKChDr7SPYMFs7d1sIKCOX/preview",
+    pdf: "https://drive.google.com/file/d/1Ssqoj2Oi2lVcoQAs1wQ51oF7xI-EGq7i/preview",
     author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
     content: {
       intro: "សៀវភៅសិក្សាគោលភាសាខ្មែរថ្នាក់ទី១០ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា ផ្ដោតលើការយល់ដឹងពីអក្សរសិល្ប៍ តែងសេចក្ដី និងវេយ្យាករណ៍ភាសាខ្មែរ។",
@@ -71,7 +71,7 @@ const grade10 = [
     classId: 10,
     subjectId: 4,
     title: "សៀវភៅសិក្សាគោល គីមីវិទ្យា ថ្នាក់ទី១០",
-    pdf: "https://drive.google.com/file/d/1Lu4L8M1tHEtb2Jr8ZivW5kDfJLW2AJ8K/preview",
+    pdf: "https://drive.google.com/file/d/13cc1SWiQCMZKChDr7SPYMFs7d1sIKCOX/preview",
     author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
     content: {
       intro: "សៀវភៅសិក្សាគោលគីមីវិទ្យាថ្នាក់ទី១០ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា ផ្ដោតលើទម្រង់អាតូម តារាងខួបនៃធាតុគីមី និងចំណងគីមី។",
@@ -92,7 +92,7 @@ const grade10 = [
     classId: 10,
     subjectId: 3,
     title: "សៀវភៅសិក្សាគោល រូបវិទ្យា ថ្នាក់ទី១០",
-    pdf: "https://drive.google.com/file/d/1H6cEcr15zSuWgv9TGIcPhTlSH8pOm9QY/preview",
+    pdf: "https://drive.google.com/file/d/13PfCpAKQ1awvMKSaJ5rBJktqqPoY_sIA/preview",
     author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
     content: {
       intro: "សៀវភៅសិក្សាគោលរូបវិទ្យាថ្នាក់ទី១០ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា ផ្ដោតលើមេកានិច ចលនា កម្លាំង និងការអនុវត្តច្បាប់ញូតុន។",
@@ -113,7 +113,7 @@ const grade10 = [
     classId: 10,
     subjectId: 13,
     title: "សៀវភៅសិក្សាគោល ផែនដីវិទ្យា ថ្នាក់ទី១០",
-    pdf: "https://drive.google.com/file/d/13PfCpAKQ1awvMKSaJ5rBJktqqPoY_sIA/preview",
+    pdf: "https://drive.google.com/file/d/1H6cEcr15zSuWgv9TGIcPhTlSH8pOm9QY/preview",
     author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
     content: {
       intro: "សៀវភៅសិក្សាគោលផែនដីវិទ្យាថ្នាក់ទី១០ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា ផ្ដោតលើភូមិគីមីវិទ្យា ស្រទាប់ផែនដី និងធនធានធម្មជាតិ។",

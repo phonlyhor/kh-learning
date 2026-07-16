@@ -257,7 +257,7 @@ const lessons = [
     classId: 9,
     subjectId: 1,
     title: "អក្សរសិល្ប៍ទី២៖ វិភាគរឿង 'គ្រូបង្រៀនស្រុកស្រែ' (សង្ខេប)",
-    pdf: "https://drive.google.com/file/d/13jMXVxoaISPbHOzbAwmKGYJgBXOtd1Vf/preview",
+    pdf: "https://drive.google.com/file/d/1dcBISRcoJgYAx2y35470zRoljqRnmQd5/preview",
     content: {
       intro: "ស្វែងយល់ពីជីវិតគ្រូបង្រៀននៅជនបទ តាមរយៈស្នាដៃនិពន្ធរបស់លោក អ៊ឹម ថុក។",
       sections: [
@@ -498,7 +498,7 @@ const lessons = [
     classId: 11,
       subjectId: 11,
         title: "សៀវភៅសិក្សាគោល ភូមិវិទ្យា ថ្នាក់ទី១១",
-          pdf: "https://drive.google.com/file/d/1TB6ExGKWlOSYWGRGrqmX_Hpt-Myqqkyp/preview",
+          pdf: "https://drive.google.com/file/d/15HVdhAf1XiHA32ScUYbz6krHBdGkPAKn/preview",
             author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
               content: {
     intro: "សៀវភៅសិក្សាគោលភូមិវិទ្យាថ្នាក់ទី១១ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា ផ្ដោតលើភូមិវិទ្យារូបវន្ត និងភូមិវិទ្យាសេដ្ឋកិច្ចកម្ពុជា និងសកលលោក។",
