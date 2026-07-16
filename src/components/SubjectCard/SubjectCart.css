@@ -1,0 +1,118 @@
+.subject-section {
+  padding: 90px 24px;
+  background: var(--bg-main);
+  transition: var(--transition);
+}
+
+.subject-grid {
+  max-width: 1280px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 30px;
+}
+
+.subject-card {
+  position: relative;
+  background: var(--bg-card);
+  padding: 35px;
+  border-radius: var(--radius-md);
+  text-align: center;
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--border-color);
+  transition: var(--transition);
+  overflow: hidden;
+}
+
+.subject-card:hover {
+  transform: translateY(-8px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--primary);
+}
+
+.badge {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  background: var(--warning);
+  color: white;
+  padding: 6px 12px;
+  font-size: 12px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+.subject-icon {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto 20px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(var(--primary-rgb), 0.1);
+  color: var(--primary);
+  font-size: 34px;
+}
+
+.subject-card h3 {
+  margin-bottom: 15px;
+  font-size: 24px;
+  color: var(--text-main);
+  font-weight: 700;
+}
+
+.available {
+  color: var(--success);
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+
+.coming {
+  color: var(--text-muted);
+  font-weight: 600;
+  margin-bottom: 25px;
+}
+
+.learn-btn {
+  width: 100%;
+  padding: 15px;
+  border: none;
+  border-radius: 12px;
+  background: var(--primary);
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  display: inline-block;
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+.learn-btn:hover {
+  background: var(--primary-hover);
+  box-shadow: var(--shadow-glow);
+}
+
+.coming-btn {
+  width: 100%;
+  padding: 15px;
+  border: none;
+  border-radius: 12px;
+  background: var(--border-color);
+  color: var(--text-muted);
+  font-size: 16px;
+  font-weight: 700;
+  cursor: not-allowed;
+  transition: var(--transition);
+}
+
+@media (max-width: 768px) {
+  .subject-section {
+    padding: 60px 16px;
+  }
+
+  .subject-card {
+    padding: 25px;
+  }
+}

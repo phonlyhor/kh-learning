@@ -1,0 +1,88 @@
+const classes = [
+  {
+    id: 1,
+    title: "ថ្នាក់ទី១",
+    description: "មេរៀនសម្រាប់សិស្សថ្នាក់ទី១",
+    color: "#3B82F6",
+    icon: "📘",
+  },
+  {
+    id: 2,
+    title: "ថ្នាក់ទី២",
+    description: "មេរៀនសម្រាប់សិស្សថ្នាក់ទី២",
+    color: "#10B981",
+    icon: "📗",
+  },
+  {
+    id: 3,
+    title: "ថ្នាក់ទី៣",
+    description: "មេរៀនសម្រាប់សិស្សថ្នាក់ទី៣",
+    color: "#F59E0B",
+    icon: "📙",
+  },
+  {
+    id: 4,
+    title: "ថ្នាក់ទី៤",
+    description: "មេរៀនសម្រាប់សិស្សថ្នាក់ទី៤",
+    color: "#EF4444",
+    icon: "📕",
+  },
+  {
+    id: 5,
+    title: "ថ្នាក់ទី៥",
+    description: "មេរៀនសម្រាប់សិស្សថ្នាក់ទី៥",
+    color: "#8B5CF6",
+    icon: "📓",
+  },
+  {
+    id: 6,
+    title: "ថ្នាក់ទី៦",
+    description: "មេរៀនសម្រាប់សិស្សថ្នាក់ទី៦",
+    color: "#EC4899",
+    icon: "📒",
+  },
+  {
+    id: 7,
+    title: "ថ្នាក់ទី៧",
+    description: "មេរៀនសម្រាប់សិស្សអនុវិទ្យាល័យ",
+    color: "#06B6D4",
+    icon: "📚",
+  },
+  {
+    id: 8,
+    title: "ថ្នាក់ទី៨",
+    description: "មេរៀនសម្រាប់សិស្សអនុវិទ្យាល័យ",
+    color: "#22C55E",
+    icon: "📖",
+  },
+  {
+    id: 9,
+    title: "ថ្នាក់ទី៩",
+    description: "មេរៀនសម្រាប់សិស្សអនុវិទ្យាល័យ",
+    color: "#F97316",
+    icon: "📔",
+  },
+  {
+    id: 10,
+    title: "ថ្នាក់ទី១០",
+    description: "មេរៀនសម្រាប់សិស្សវិទ្យាល័យ",
+    color: "#2563EB",
+    icon: "🎓",
+  },
+  {
+    id: 11,
+    title: "ថ្នាក់ទី១១",
+    description: "មេរៀនសម្រាប់សិស្សវិទ្យាល័យ",
+    color: "#7C3AED",
+    icon: "🎒",
+  },
+  {
+    id: 12,
+    title: "ថ្នាក់ទី១២",
+    description: "ត្រៀមប្រឡងបាក់ឌុប",
+    color: "#DC2626",
+    icon: "🏆",
+  },
+];
+
+export default classes;

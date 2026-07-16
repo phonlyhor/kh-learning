@@ -1,0 +1,310 @@
+.pdf-viewer-page {
+  max-width: 1280px;
+  margin: 100px auto 60px;
+  padding: 24px;
+}
+
+.viewer-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.viewer-header h1 {
+  font-size: 40px;
+  color: var(--text-main);
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.viewer-header p {
+  color: var(--text-muted);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+/* Tab container in viewer */
+.viewer-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+.viewer-tabs .tab-btn {
+  padding: 12px 24px;
+  border-radius: 30px;
+  background: var(--bg-card);
+  color: var(--text-muted);
+  border: 1px solid var(--border-color);
+  font-weight: 700;
+  font-size: 15px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: var(--transition);
+  box-shadow: var(--shadow-sm);
+}
+
+.viewer-tabs .tab-btn:hover {
+  color: var(--primary);
+  border-color: var(--primary);
+}
+
+.viewer-tabs .tab-btn.active {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
+  box-shadow: var(--shadow-glow);
+}
+
+/* Actions Controls */
+.viewer-actions {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+
+.btn {
+  text-decoration: none;
+  color: #fff;
+  padding: 14px 26px;
+  border-radius: var(--radius-sm);
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-size: 15px;
+  transition: var(--transition);
+}
+
+.blue {
+  background: var(--primary);
+}
+
+.blue:hover {
+  background: var(--primary-hover);
+  box-shadow: var(--shadow-glow);
+}
+
+.green {
+  background: var(--success);
+}
+
+.green:hover {
+  background: #0d9488;
+}
+
+.gray {
+  background: var(--border-color);
+  color: var(--text-main);
+}
+
+.gray:hover {
+  background: var(--text-muted);
+  color: var(--bg-card);
+}
+
+.btn:hover {
+  transform: translateY(-3px);
+}
+
+/* Rich Lesson Text Article Content */
+.lesson-text-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 50px 40px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+}
+
+.article-body {
+  text-align: left;
+}
+
+.article-intro {
+  font-size: 18px;
+  color: var(--text-muted);
+  line-height: 1.8;
+  margin-bottom: 35px;
+  padding-bottom: 25px;
+  border-bottom: 1px solid var(--border-color);
+  font-style: italic;
+}
+
+.article-section {
+  margin-bottom: 40px;
+}
+
+.article-section h2 {
+  font-size: 24px;
+  color: var(--text-main);
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+
+.article-paragraph {
+  font-size: 16px;
+  color: var(--text-main);
+  line-height: 1.8;
+  white-space: pre-line;
+  margin-bottom: 20px;
+}
+
+/* Article grid for character displays */
+.article-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+  gap: 12px;
+  margin: 25px 0;
+}
+
+.grid-item {
+  height: 60px;
+  background: var(--bg-main);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--text-main);
+  transition: var(--transition);
+}
+
+.grid-item:hover {
+  transform: translateY(-2px);
+  border-color: var(--primary);
+  background: var(--bg-card);
+  box-shadow: var(--shadow-sm);
+  color: var(--primary);
+}
+
+/* Article List Styling */
+.article-list {
+  list-style: none;
+  padding-left: 10px;
+  margin: 20px 0;
+}
+
+.article-list li {
+  font-size: 16px;
+  line-height: 1.8;
+  color: var(--text-main);
+  margin-bottom: 12px;
+  position: relative;
+  padding-left: 24px;
+}
+
+.article-list li::before {
+  content: "✦";
+  position: absolute;
+  left: 0;
+  color: var(--primary);
+  font-weight: bold;
+}
+
+.no-text-content {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 18px;
+  padding: 40px 0;
+}
+
+/* PDF Mode Iframe Card */
+.viewer-card {
+  width: 100%;
+  height: 900px;
+  background: var(--bg-card);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  overflow: hidden;
+  box-shadow: var(--shadow-lg);
+}
+
+.viewer-card iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.mobile-message {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 40px 24px;
+  text-align: center;
+  box-shadow: var(--shadow-md);
+}
+
+.phone-icon {
+  font-size: 70px;
+  margin-bottom: 15px;
+}
+
+.mobile-message h2 {
+  color: var(--primary);
+  margin-bottom: 15px;
+  font-weight: 800;
+}
+
+.mobile-message p {
+  color: var(--text-muted);
+  line-height: 1.8;
+}
+
+.viewer-error {
+  text-align: center;
+  padding: 100px 24px;
+}
+
+.viewer-error h2 {
+  font-size: 32px;
+  color: var(--text-main);
+  margin-bottom: 24px;
+}
+
+@media (max-width: 768px) {
+  .pdf-viewer-page {
+    margin-top: 80px;
+    padding: 16px;
+  }
+
+  .viewer-header h1 {
+    font-size: 30px;
+  }
+
+  .viewer-header p {
+    font-size: 16px;
+  }
+
+  .viewer-tabs {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .viewer-tabs .tab-btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .viewer-actions {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .btn {
+    width: 100%;
+    text-align: center;
+  }
+
+  .lesson-text-content {
+    padding: 24px 16px;
+  }
+}

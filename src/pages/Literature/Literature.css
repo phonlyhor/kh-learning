@@ -1,0 +1,132 @@
+.literature-page {
+  padding: 100px 24px;
+  background: var(--bg-main);
+  min-height: 100vh;
+  transition: var(--transition);
+}
+
+.literature-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.literature-header .header-icon {
+  font-size: 65px;
+  color: var(--primary);
+  margin-bottom: 15px;
+  animation: logo-float 3s ease-in-out infinite;
+}
+
+.literature-header h1 {
+  font-size: 42px;
+  color: var(--text-main);
+  margin-bottom: 10px;
+  font-weight: 800;
+}
+
+.literature-header p {
+  color: var(--text-muted);
+  font-size: 18px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* Literature Cards Grid */
+.literature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.literature-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 30px 25px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow-sm);
+  transition: var(--transition);
+  position: relative;
+}
+
+.literature-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--primary);
+}
+
+.class-tag {
+  align-self: flex-start;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--primary);
+  background: rgba(var(--primary-rgb), 0.1);
+  padding: 4px 12px;
+  border-radius: 20px;
+  margin-bottom: 15px;
+}
+
+.literature-card h3 {
+  font-size: 20px;
+  color: var(--text-main);
+  margin-bottom: 12px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.literature-card p {
+  color: var(--text-muted);
+  font-size: 14px;
+  line-height: 1.7;
+  margin-bottom: 25px;
+  flex: 1;
+}
+
+.literature-card .read-btn {
+  background: var(--primary);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 10px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-size: 15px;
+  transition: var(--transition);
+  margin-top: auto;
+}
+
+.literature-card .read-btn:hover {
+  background: var(--primary-hover);
+  box-shadow: var(--shadow-glow);
+}
+
+.no-results {
+  text-align: center;
+  padding: 40px;
+  color: var(--text-muted);
+}
+
+.no-results h3 {
+  font-size: 22px;
+  color: var(--text-main);
+  margin-bottom: 10px;
+}
+
+@media (max-width: 768px) {
+  .literature-header h1 {
+    font-size: 32px;
+  }
+
+  .literature-header p {
+    font-size: 16px;
+  }
+
+  .literature-card {
+    padding: 24px;
+  }
+}

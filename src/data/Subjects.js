@@ -1,0 +1,96 @@
+const subjects = [
+  {
+    id: 1,
+    name: "ភាសាខ្មែរ",
+    icon: "📖",
+    available: true,
+    classes: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  },
+  {
+    id: 2,
+    name: "គណិតវិទ្យា",
+    icon: "📘",
+    available: true,
+    classes: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  },
+  {
+    id: 3,
+    name: "រូបវិទ្យា",
+    icon: "🔬",
+    available: true,
+    classes: [7, 8, 9, 10, 11, 12],
+  },
+  {
+    id: 4,
+    name: "គីមីវិទ្យា",
+    icon: "🧪",
+    available: true,
+    classes: [8, 9, 10, 11, 12],
+  },
+  {
+    id: 5,
+    name: "ជីវវិទ្យា",
+    icon: "🌿",
+    available: true,
+    classes: [7, 8, 9, 10, 11, 12],
+  },
+  {
+    id: 6,
+    name: "ភាសាអង់គ្លេស",
+    icon: "📚",
+    available: true,
+    classes: [4, 5, 6, 7, 8, 9, 10, 11, 12],
+  },
+  {
+    id: 7,
+    name: "ប្រវត្តិវិទ្យាខ្មែរ",
+    icon: "📜",
+    available: true,
+    classes: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  },
+  {
+    id: 8,
+    name: "ទ្រឹស្តីផ្សេងៗ",
+    icon: "🧠",
+    available: false,
+    classes: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  },
+  {
+    id: 9,
+    name: "សៀវភៅទូទៅផ្សេងៗ",
+    icon: "📚",
+    available: true,
+    classes: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  },
+  {
+    id: 10,
+    name: "ប្រវត្តិវិទ្យា",
+    icon: "📜",
+    available: true,
+    classes: [7, 8, 9, 10, 11, 12],
+  },
+  {
+    id: 11,
+    name: "ភូមវិទ្យា",
+    icon: "🌍",
+    available: true,
+    classes: [7, 8, 9, 10, 11, 12],
+  },
+  {
+    id: 12,
+    name: "សិលធម៍-ពលរដ្ធវិទ្យា",
+    icon: "⚖️",
+    available: true,
+    classes: [7, 8, 9, 10, 11, 12],
+  },
+  {
+    id: 13,
+    name: "ផែនដី​វិទ្យា",
+    icon: "🌋",
+    available: true,
+    classes: [7, 8, 9, 10, 11, 12],
+  },
+];
+
+export default subjects;
+
