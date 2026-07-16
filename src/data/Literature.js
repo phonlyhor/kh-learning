@@ -4,7 +4,7 @@ const Literature = [
         classId: 12,
         subjectId: 1,
         title: "រឿង គ្រូបង្រៀនស្រុកស្រែ",
-        pdf: "/pdf/Literature/គ្រូបង្រៀនស្រុកស្រែ.pdf",
+        pdf: "https://drive.google.com/file/d/1kHKM3qGmhT7KSV4fg9jRV08J8aM1GWPK/preview",
         author: "អ៊ឹម ថុក",
         description: "ប្រលោមលោកអប់រំដ៏ល្បីល្បាញ បង្ហាញពីជីវិតតស៊ូរបស់លោកគ្រូ ធារី ដែលបានលះបង់ក្តីសុខនៅទីក្រុង ទៅអភិវឌ្ឍចំណេះដឹងកុមារនៅជនបទ។",
         content: {
@@ -22,7 +22,7 @@ const Literature = [
         classId: 12,
         subjectId: 1,
         title: "សៀវភៅអត្ថបទអក្សរសិល្ប៍ ភាគ១",
-        pdf: "/pdf/Literature/អត្ថបទអក្សរសិល្ប៏.pdf",
+        pdf: "https://drive.google.com/file/d/1XQQTiULhAb32R511sXYGnTCjCSx19i6b/preview",
         author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
         description: "សៀវភៅប្រមូលផ្តុំអត្ថបទអក្សរសិល្ប៍ខ្មែរល្បីៗ និងស្នាដៃអក្សរសិល្ប៍ជ្រើសរើស ភាគ១ សម្រាប់ជាឯកសារយោង និងអានបន្ថែម。",
         content: {
@@ -40,7 +40,7 @@ const Literature = [
         classId: 12,
         subjectId: 1,
         title: "សៀវភៅអត្ថបទអក្សរសិល្ប៍ ភាគ២",
-        pdf: "/pdf/Literature/អត្ថបទអក្សរសិល្ប៏១.pdf",
+        pdf: "https://drive.google.com/file/d/1aEk3FQPf7i0XsPlps5p7EfZOI91QMpPz/preview",
         author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
         description: "សៀវភៅប្រមូលផ្តុំអត្ថបទអក្សរសិល្ប៍ខ្មែរល្បីៗ និងស្នាដៃអក្សរសិល្ប៍ជ្រើសរើស ភាគ២ សម្រាប់ជាឯកសារយោង និងអានបន្ថែម។",
         content: {
@@ -58,7 +58,7 @@ const Literature = [
         classId: 12,
         subjectId: 1,
         title: "សៀវភៅអរិយធម៌ខ្មែរ",
-        pdf: "/pdf/Literature/អរីយធម៏ខ្មែរ.pdf",
+        pdf: "https://drive.google.com/file/d/110WH5IQlv9zDFFWCLztSdhQhCPvOwcA4/preview",
         author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
         description: "សៀវភៅសិក្សាស្រាវជ្រាវអំពីអរិយធម៌ខ្មែរ វប្បធម៌ ជំនឿ សាសនា និងទំនៀមទម្លាប់ប្រពៃណីខ្មែរតាំងពីបុរាណកាល។",
         content: {

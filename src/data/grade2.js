@@ -4,7 +4,7 @@ const grade2 = [
         "classId": 2,
         "subjectId": 2,
         "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី២ ភាគ១",
-        "pdf": "/pdf/Class2/គណិត១.pdf",
+        "pdf": "https://drive.google.com/file/d/19EQstd3gW6j5oL8aai9Zu4DtoG6sSEgd/preview",
         "author": "ក្រសួងអប់រំ យុវជន និងកីឡា",
         "description": "សៀវភៅសិក្សាគោលគណិតវិទ្យា ថ្នាក់ទី២ ភាគ១ សម្រាប់សិស្សានុសិស្សសិក្សាមូលដ្ឋានគ្រឹះដំបូង។",
         "content": {
@@ -26,7 +26,7 @@ const grade2 = [
         "classId": 2,
         "subjectId": 2,
         "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី២ ភាគ២",
-        "pdf": "/pdf/Class2/គណិត២.pdf",
+        "pdf": "https://drive.google.com/file/d/1urzzH2E7fqWUiC9eGUfcjWo9mQLYfBIJ/preview",
         "author": "ក្រសួងអប់រំ យុវជន និងកីឡា",
         "description": "សៀវភៅសិក្សាគោលគណិតវិទ្យា ថ្នាក់ទី២ ភាគ២ សម្រាប់បន្តការសិក្សាលើប្រមាណវិធី និងធរណីមាត្រ។",
         "content": {
@@ -48,7 +48,7 @@ const grade2 = [
         "classId": 2,
         "subjectId": 2,
         "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី២ ភាគ៣",
-        "pdf": "/pdf/Class2/គណិត៣.pdf",
+        "pdf": "https://drive.google.com/file/d/1X8yeGrBO8tIzAVyJeTYN0uCOP74FVaUI/preview",
         "author": "ក្រសួងអប់រំ យុវជន និងកីឡា",
         "description": "សៀវភៅសិក្សាគោលគណិតវិទ្យា ថ្នាក់ទី២ ភាគ៣ សម្រាប់ការសិក្សាចំនួនធំៗ ពេលវេលា និងរូបិយវត្ថុ។",
         "content": {
@@ -70,7 +70,7 @@ const grade2 = [
         "classId": 1,
         "subjectId": 2,
         "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី១",
-        "pdf": "/pdf/Class1/គណិតថ្នាក់ទី១.pdf",
+        "pdf": "https://drive.google.com/file/d/1-o8U_7iKsvqp98-iDc15kE_ICImcxANg/preview",
         "author": "ក្រសួងអប់រំ យុវជន និងកីឡា",
         "description": "សៀវភៅសិក្សាគោលគណិតវិទ្យា ថ្នាក់ទី១ សម្រាប់សិស្សានុសិស្សសិក្សាមូលដ្ឋានគ្រឹះដំបូងនៃលេខ និងប្រមាណវិធីបូកដកសាមញ្ញ។",
         "content": {
@@ -92,7 +92,7 @@ const grade2 = [
         "classId": 3,
         "subjectId": 2,
         "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី៣",
-        "pdf": "/pdf/Class3/គណិតថ្នាក់ទី៣.pdf",
+        "pdf": "https://drive.google.com/file/d/1jmEb1-kRPM1opVl6Oi8OjC4mX7RyD_0V/preview",
         "author": "ក្រសួងអប់រំ យុវជន និងកីឡា",
         "description": "សៀវភៅសិក្សាគោលគណិតវិទ្យា ថ្នាក់ទី៣ សម្រាប់សិស្សានុសិស្សសិក្សាមូលដ្ឋានគ្រឹះចំនួនធំជាងមុន វិធីគុណ វិធីចែក និងធរណីមាត្រ។",
         "content": {
@@ -114,7 +114,7 @@ const grade2 = [
         "classId": 4,
         "subjectId": 2,
         "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី៤",
-        "pdf": "/pdf/Class4/គណិត.pdf",
+        "pdf": "https://drive.google.com/file/d/1WG-whqLL-FcwxBnu4pAc6nA0meI9tap_/preview",
         "author": "ក្រសួងអប់រំ យុវជន និងកីឡា",
         "description": "សៀវភៅសិក្សាគោលគណិតវិទ្យា ថ្នាក់ទី៤ សម្រាប់សិស្សានុសិស្សសិក្សាប្រមាណវិធីស្មុគស្មាញ ចំនួនទសភាគ និងធរណីមាត្រវាស់វែង។",
         "content": {

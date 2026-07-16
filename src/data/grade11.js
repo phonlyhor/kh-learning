@@ -4,7 +4,7 @@ const grade11 = [
     classId: 11,
     subjectId: 5,
     title: "សៀវភៅសិក្សាគោល ជីវវិទ្យា ថ្នាក់ទី១១",
-    pdf: "/pdf/Class11/ជីវះ.pdf",
+    pdf: "https://drive.google.com/file/d/1-zoQJYJJaD73_4hXLX3vMJzr52Dw-mWj/preview",
     author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
     content: {
       intro: "សៀវភៅសិក្សាគោលជីវវិទ្យាថ្នាក់ទី១១ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា ផ្ដោតលើអេកូឡូស៊ី សរីរវិទ្យារុក្ខជាតិ និងប្រព័ន្ធដឹកជញ្ជូនក្នុងភាវរស់។",
@@ -29,7 +29,7 @@ const grade11 = [
     classId: 11,
     subjectId: 12,
     title: "សៀវភៅសិក្សាគោល សីលធម៌-ពលរដ្ឋវិទ្យា ថ្នាក់ទី១១",
-    pdf: "/pdf/Class11/សិលធម៏.pdf",
+    pdf: "https://drive.google.com/file/d/1M3W2J1YgoDjXS6bCRqFL9kTorCxci6u9/preview",
     author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
     content: {
       intro: "សៀវភៅសិក្សាគោលសីលធម៌-ពលរដ្ឋវិទ្យាថ្នាក់ទី១១ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា ផ្ដោតលើគុណធម៌ សិទ្ធិមនុស្ស និងគោលការណ៍លទ្ធិប្រជាធិបតេយ្យ។",
@@ -54,7 +54,7 @@ const grade11 = [
     classId: 11,
     subjectId: 2,
     title: "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី១១",
-    pdf: "/pdf/Class11/គណិត.pdf",
+    pdf: "https://drive.google.com/file/d/18_7lF_56s7Hle_ktSTKAY2eVeGc1kSnq/preview",
     author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
     content: {
       intro: "សៀវភៅសិក្សាគោលគណិតវិទ្យាថ្នាក់ទី១១ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា សម្រាប់ត្រៀមលក្ខណៈ និងពង្រឹងសមត្ថភាពដោះស្រាយលំហាត់ពិជគណិត ធរណីមាត្រ និងវិភាគ។",
@@ -79,7 +79,7 @@ const grade11 = [
     classId: 11,
     subjectId: 1,
     title: "សៀវភៅសិក្សាគោល ភាសាខ្មែរ ថ្នាក់ទី១១",
-    pdf: "/pdf/Class11/ខ្មែរ.pdf",
+    pdf: "https://drive.google.com/file/d/1KDT9vX-4hc-WyECsP0pc41oU5PKbbPnr/preview",
     author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
     content: {
       intro: "សៀវភៅសិក្សាគោលភាសាខ្មែរថ្នាក់ទី១១ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា ផ្ដោតលើការអាន ការតែងនិពន្ធ និងការវិភាគអក្សរសិល្ប៍ខ្មែរ។",
@@ -100,7 +100,7 @@ const grade11 = [
     classId: 11,
     subjectId: 13,
     title: "សៀវភៅសិក្សាគោល ផែនដីវិទ្យា ថ្នាក់ទី១១",
-    pdf: "/pdf/Class11/ផែនដី.pdf",
+    pdf: "https://drive.google.com/file/d/1kZD4KkfYLF49lcrmzxmJT0vQs_kVuyTN/preview",
     author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
     content: {
       intro: "សៀវភៅសិក្សាគោលផែនដីវិទ្យាថ្នាក់ទី១១ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា ផ្ដោតលើការសិក្សាពីភូគព្ភវិទ្យា ទម្រង់ផែនដី និងបាតុភូតធម្មជាតិ។",
@@ -125,7 +125,7 @@ const grade11 = [
     classId: 11,
     subjectId: 4,
     title: "សៀវភៅសិក្សាគោល គីមីវិទ្យា ថ្នាក់ទី១១",
-    pdf: "/pdf/Class11/គីមី.pdf",
+    pdf: "https://drive.google.com/file/d/15HVdhAf1XiHA32ScUYbz6krHBdGkPAKn/preview",
     author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
     content: {
       intro: "សៀវភៅសិក្សាគោលគីមីវិទ្យាថ្នាក់ទី១១ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា ផ្ដោតលើទែម៉ូគីមី ល្បឿនប្រតិកម្ម និងគីមីសរីរាង្គ (អ៊ីដ្រូកាបូន)។",
@@ -150,7 +150,7 @@ const grade11 = [
     classId: 11,
     subjectId: 3,
     title: "សៀវភៅសិក្សាគោល រូបវិទ្យា ថ្នាក់ទី១១",
-    pdf: "/pdf/Class11/រូប.pdf",
+    pdf: "https://drive.google.com/file/d/1A_tO2RAZB1341RY4uoLrx-pXe0MMy__3/preview",
     author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
     content: {
       intro: "សៀវភៅសិក្សាគោលរូបវិទ្យាថ្នាក់ទី១១ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា ផ្ដោតលើមេកានិច កម្ដៅ និងអគ្គិសនីស្ដាទិច។",
@@ -175,7 +175,7 @@ const grade11 = [
     classId: 11,
     subjectId: 6,
     title: "សៀវភៅសិក្សាគោល អង់គ្លេស ថ្នាក់ទី១១",
-    pdf: "/pdf/Class11/en.pdf",
+    pdf: "https://drive.google.com/file/d/1KwzqYF3qKgpEXFGhXHwZlH7fzp6-Tdp5/preview",
     author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
     content: {
       intro: "សៀវភៅសិក្សាគោលភាសាអង់គ្លេសថ្នាក់ទី១១ សម្រាប់ពង្រឹងសមត្ថភាពការសន្ទនា អាន សរសេរ និងវេយ្យាករណ៍កម្រិតមធ្យមបង្គួរ។",
@@ -200,7 +200,7 @@ const grade11 = [
     classId: 11,
     subjectId: 10,
     title: "សៀវភៅសិក្សាគោល ប្រវត្តិវិទ្យា ថ្នាក់ទី១១",
-    pdf: "/pdf/Class11/ប្រវត្តិ.pdf",
+    pdf: "https://drive.google.com/file/d/1tOc1xx1lkQhLdKhPH_KmHvOuAmBTAAHU/preview",
     author: "ក្រសួងអប់រំ យុវជន និងកីឡា",
     content: {
       intro: "សៀវភៅសិក្សាគោលប្រវត្តិវិទ្យាថ្នាក់ទី១១ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា ផ្ដោតលើប្រវត្តិសាស្ត្រសកលលោក និងប្រវត្តិសាស្ត្រកម្ពុជាសម័យបារាំង។",
