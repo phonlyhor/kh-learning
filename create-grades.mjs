@@ -1,0 +1,1 @@
+import fs from 'fs'; import path from 'path'; const dir = 'd:/KH-LEARNING/KHMER-LEARNING/src/data'; const grades = [5, 6, 7, 8, 9, 12]; grades.forEach(g => { const content = \const grade\ = [];\n\nexport default grade\;\n\; fs.writeFileSync(path.join(dir, \grade\.js\), content); });

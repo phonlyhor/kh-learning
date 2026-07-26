@@ -1,0 +1,1 @@
+import fs from 'fs'; import path from 'path'; const dir = 'd:/KH-LEARNING/KHMER-LEARNING/src/data'; const files = fs.readdirSync(dir).filter(f => f.endsWith('.js')); files.forEach(file => { const content = fs.readFileSync(path.join(dir, file), 'utf8'); if (content.includes('1tCMc_kwU87QcHnslQKZudUmnPoOr9MFy')) { console.log(file, 'contains the orig pdf'); } });

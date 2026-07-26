@@ -8,7 +8,16 @@ import lessons from "../../data/Lessons";
 import generalBooks from "../../data/generalbook";
 import grade11 from "../../data/grade11";
 import grade10 from "../../data/grade10";
+import grade1 from "../../data/grade1";
 import grade2 from "../../data/grade2";
+import grade3 from "../../data/grade3";
+import grade4 from "../../data/grade4";
+import grade5 from "../../data/grade5";
+import grade6 from "../../data/grade6";
+import grade7 from "../../data/grade7";
+import grade8 from "../../data/grade8";
+import grade9 from "../../data/grade9";
+import grade12 from "../../data/grade12";
 import exercises from "../../data/Exercises";
 
 import "./Lessons.css";
@@ -51,7 +60,7 @@ const Lessons = () => {
   }
 
   // Determine which database to load from
-  const currentDataList = isGeneralSubject ? generalBooks : [...lessons, ...grade11, ...grade10, ...grade2];
+  const currentDataList = isGeneralSubject ? generalBooks : [...lessons, ...grade12, ...grade11, ...grade10, ...grade9, ...grade8, ...grade7, ...grade6, ...grade5, ...grade4, ...grade3, ...grade2, ...grade1];
 
   // Filter lessons belonging to this class & subject
   const filteredLessons = currentDataList.filter(

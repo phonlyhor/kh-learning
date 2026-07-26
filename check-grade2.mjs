@@ -1,0 +1,1 @@
+import fs from 'fs'; ['Lessons.js', 'grade2.js'].forEach(file => { const content = fs.readFileSync('d:/KH-LEARNING/KHMER-LEARNING/src/data/' + file, 'utf8'); const regex = /classId:\s*2,.*?title:\s*['"]([^'"]+)['"].*?pdf:\s*['"]([^'"]+)['"]/gs; let match; while(match = regex.exec(content)) { console.log(file, 'Title:', match[1], '\nPDF:', match[2]); } });

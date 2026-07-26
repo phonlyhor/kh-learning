@@ -8,7 +8,16 @@ import lessons from "../../data/Lessons";
 import generalBooks from "../../data/generalbook";
 import grade11 from "../../data/grade11";
 import grade10 from "../../data/grade10";
+import grade1 from "../../data/grade1";
 import grade2 from "../../data/grade2";
+import grade3 from "../../data/grade3";
+import grade4 from "../../data/grade4";
+import grade5 from "../../data/grade5";
+import grade6 from "../../data/grade6";
+import grade7 from "../../data/grade7";
+import grade8 from "../../data/grade8";
+import grade9 from "../../data/grade9";
+import grade12 from "../../data/grade12";
 import Literature from "../../data/Literature";
 
 import "./PdfViewer.css";
@@ -27,17 +36,35 @@ const PdfViewer = () => {
     const lid = Number(lessonId);
     currentLesson = 
       lessons.find((item) => item.id === lid && item.classId === cid) ||
+      grade12.find((item) => item.id === lid && item.classId === cid) ||
       grade11.find((item) => item.id === lid && item.classId === cid) ||
       grade10.find((item) => item.id === lid && item.classId === cid) ||
-      grade2.find((item) => item.id === lid && item.classId === cid);
+      grade9.find((item) => item.id === lid && item.classId === cid) ||
+      grade8.find((item) => item.id === lid && item.classId === cid) ||
+      grade7.find((item) => item.id === lid && item.classId === cid) ||
+      grade6.find((item) => item.id === lid && item.classId === cid) ||
+      grade5.find((item) => item.id === lid && item.classId === cid) ||
+      grade4.find((item) => item.id === lid && item.classId === cid) ||
+      grade3.find((item) => item.id === lid && item.classId === cid) ||
+      grade2.find((item) => item.id === lid && item.classId === cid) ||
+      grade1.find((item) => item.id === lid && item.classId === cid);
   } else {
     // Fallback for direct /viewer/:lessonId access
     const lid = Number(lessonId);
     currentLesson = lessons.find((item) => item.id === lid) ||
       generalBooks.find((item) => item.id === lid) ||
+      grade12.find((item) => item.id === lid) ||
       grade11.find((item) => item.id === lid) ||
       grade10.find((item) => item.id === lid) ||
+      grade9.find((item) => item.id === lid) ||
+      grade8.find((item) => item.id === lid) ||
+      grade7.find((item) => item.id === lid) ||
+      grade6.find((item) => item.id === lid) ||
+      grade5.find((item) => item.id === lid) ||
+      grade4.find((item) => item.id === lid) ||
+      grade3.find((item) => item.id === lid) ||
       grade2.find((item) => item.id === lid) ||
+      grade1.find((item) => item.id === lid) ||
       Literature.find((item) => item.id === lid);
   }
 

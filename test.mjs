@@ -1,0 +1,1 @@
+import fs from 'fs'; import path from 'path'; const dir = 'd:/KH-LEARNING/KHMER-LEARNING/src/data'; const content = fs.readFileSync(path.join(dir, 'Lessons.js'), 'utf8'); const regex = /subjectId:\s*1,.*?title:\s*['"]([^'"]+)['"].*?pdf:\s*['"]([^'"]+)['"]/gs; let match; while(match = regex.exec(content)) { console.log('Title:', match[1], '\nPDF:', match[2]); }

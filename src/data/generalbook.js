@@ -4,7 +4,7 @@ const generalBooks = [
     classId: 12,
     subjectId: 7,
     title: "ប្រវត្តិសាស្ត្រខ្មែរ ភាគ១ និង ភាគ២",
-    pdf: "https://drive.google.com/file/d/1Q8x1JBDjQURtN0WAxDZ48wOinD1_wDMq/preview",
+    pdf: "https://drive.google.com/file/d/1XoZDa08Y3eA484Rh4f5Ysv7u87dLhJyQ/preview",
     author: "ត្រឹង ងា",
     views: 26501,
     downloads: 0,
@@ -27,7 +27,7 @@ const generalBooks = [
     classId: 12,
     subjectId: 7,
     title: "ព្រំដែននៃប្រទេសកម្ពុជា",
-    pdf: "https://drive.google.com/file/d/17K5OmAkMMKazjzyeXsS5M1YboEKtYvHz/preview",
+    pdf: "https://drive.google.com/file/d/1XaF5HeUW8t472BSoIgvJh-_n4ceFM1iJ/preview",
     author: "សារិន ឆាក",
     views: 24410,
     downloads: 0,
@@ -50,7 +50,7 @@ const generalBooks = [
     classId: 12,
     subjectId: 7,
     title: "ជនជាតិខ្មែរ",
-    pdf: "https://drive.google.com/file/d/1DLbbG1-ehVi3-Y7sNJ3clAKEDHPtvlyu/preview",
+    pdf: "https://drive.google.com/file/d/1BSYrSjurlt6GZq4s58IpMv953gFfamDw/preview",
     author: "Paul Brunon និង ស៊ុនហៀង ម៉េងណាង",
     views: 30043,
     downloads: 0,
@@ -73,7 +73,7 @@ const generalBooks = [
     classId: 12,
     subjectId: 7,
     title: "កម្ពុជា និង យៀកកុង (Cambodia & The Viet Cong)",
-    pdf: "https://drive.google.com/file/d/1ANUrXFjJqgfjDnJFgrErLfz5eeJMr71W/preview",
+    pdf: "https://drive.google.com/file/d/1R5pmRyPKk2y5T8QBsDCmupzmi0-s6Uju/preview",
     author: "សាកលវិទ្យាល័យកាលីហ្វ័រញ៉ា",
     views: 31306,
     downloads: 0,
@@ -96,7 +96,7 @@ const generalBooks = [
     classId: 12,
     subjectId: 7,
     title: "កម្ពុជា និង សហព័ន្ធឥណ្ឌូចិន",
-    pdf: "https://drive.google.com/file/d/1A1pctgzRHABrQzVx7nleRnwQ5WdCRXVa/preview",
+    pdf: "https://drive.google.com/file/d/1HifaJeixgTBhVvRFKCwj7v-lnfnUkg1r/preview",
     author: "ចាន់ ដារា, អ៊ិត ថុងងួន, ប៉ែន នារវី",
     views: 23220,
     downloads: 890,
@@ -119,7 +119,7 @@ const generalBooks = [
     classId: 12,
     subjectId: 7,
     title: "បញ្ជីរាយព្រះនាមព្រះមហាក្សត្រខ្មែរ",
-    pdf: "https://drive.google.com/file/d/1Euzxr6bSGlEQuIdt1vY59tN7mfq65fTU/preview",
+    pdf: "https://drive.google.com/file/d/1HifaJeixgTBhVvRFKCwj7v-lnfnUkg1r/preview",
     author: "Knowledge Daily",
     views: 20232,
     downloads: 0,
@@ -138,7 +138,7 @@ const generalBooks = [
     classId: 12,
     subjectId: 9,
     title: "សៀវភៅ ការល្បងបរិយាយ",
-    pdf: "https://drive.google.com/file/d/1cF9cnH3N0IIqgYvmhPgJhmx6zCLOeCjC/preview",
+    pdf: "https://drive.google.com/file/d/1Euzxr6bSGlEQuIdt1vY59tN7mfq65fTU/preview",
     author: "ផុន លីហ័រ",
     views: 12050,
     downloads: 120,
@@ -157,7 +157,7 @@ const generalBooks = [
     classId: 12,
     subjectId: 9,
     title: "សៀវភៅ ក្តីសង្ឃឹម",
-    pdf: "https://drive.google.com/file/d/1HifaJeixgTBhVvRFKCwj7v-lnfnUkg1r/preview",
+    pdf: "https://drive.google.com/file/d/1A1pctgzRHABrQzVx7nleRnwQ5WdCRXVa/preview",
     author: "ផុន លីហ័រ",
     views: 14320,
     downloads: 250,
@@ -176,7 +176,7 @@ const generalBooks = [
     classId: 12,
     subjectId: 9,
     title: "សៀវភៅ គិតឡើងវិញ",
-    pdf: "https://drive.google.com/file/d/1R5pmRyPKk2y5T8QBsDCmupzmi0-s6Uju/preview",
+    pdf: "https://drive.google.com/file/d/1ANUrXFjJqgfjDnJFgrErLfz5eeJMr71W/preview",
     author: "ផុន លីហ័រ",
     views: 18900,
     downloads: 340,
@@ -195,7 +195,7 @@ const generalBooks = [
     classId: 12,
     subjectId: 9,
     title: "សៀវភៅ ទម្លាប់ទាំង៧ របស់មនុស្សមានប្រសិទ្ធភាពខ្ពស់",
-    pdf: "https://drive.google.com/file/d/1BSYrSjurlt6GZq4s58IpMv953gFfamDw/preview",
+    pdf: "https://drive.google.com/file/d/1DLbbG1-ehVi3-Y7sNJ3clAKEDHPtvlyu/preview",
     author: "ផុន លីហ័រ",
     views: 25600,
     downloads: 1050,
@@ -214,7 +214,7 @@ const generalBooks = [
     classId: 12,
     subjectId: 9,
     title: "សៀវភៅ ផ្តោតលើកិច្ចការ",
-    pdf: "https://drive.google.com/file/d/1I6Vf1eacShC5R0HY4NyFCBaYs8pK0oRz/preview",
+    pdf: "https://drive.google.com/file/d/1Q8x1JBDjQURtN0WAxDZ48wOinD1_wDMq/preview",
     author: "ផុន លីហ័រ",
     views: 11200,
     downloads: 95,
@@ -233,7 +233,7 @@ const generalBooks = [
     classId: 12,
     subjectId: 9,
     title: "សៀវភៅ ភាពជាអ្នកដឹកនាំ",
-    pdf: "https://drive.google.com/file/d/1XaF5HeUW8t472BSoIgvJh-_n4ceFM1iJ/preview",
+    pdf: "https://drive.google.com/file/d/17K5OmAkMMKazjzyeXsS5M1YboEKtYvHz/preview",
     author: "ផុន លីហ័រ",
     views: 16700,
     downloads: 430,
@@ -243,6 +243,25 @@ const generalBooks = [
         {
           title: "១. គោលការណ៍គ្រឹះនៃអ្នកដឹកនាំល្អ",
           body: "ការបង្កើតទស្សនវិស័យ ទំនាក់ទំនងប្រកបដោយប្រសិទ្ធភាព និងការលើកទឹកចិត្តក្រុមការងារ។"
+        }
+      ]
+    }
+  },
+  {
+    id: 107,
+    classId: 12,
+    subjectId: 7,
+    title: "១៩៧៥-១៩៧៩ ប្រវត្តិសាស្ត្រខ្មែរ",
+    pdf: "https://drive.google.com/file/d/1I6Vf1eacShC5R0HY4NyFCBaYs8pK0oRz/preview",
+    author: "ឯកសារស្រាវជ្រាវ",
+    views: 0,
+    downloads: 0,
+    content: {
+      intro: "សៀវភៅស្រាវជ្រាវអំពីប្រវត្តិសាស្ត្រខ្មែរក្នុងរបបកម្ពុជាប្រជាធិបតេយ្យ (១៩៧៥-១៩៧៩)។",
+      sections: [
+        {
+          title: "១. ប្រវត្តិសាស្ត្រ ១៩៧៥-១៩៧៩",
+          body: "ព្រឹត្តិការណ៍សង្គម និងនយោបាយកម្ពុជាចន្លោះឆ្នាំ ១៩៧៥ ដល់ ១៩៧៩។"
         }
       ]
     }
