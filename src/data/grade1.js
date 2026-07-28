@@ -4,7 +4,7 @@ const grade1 = [
         "classId": 1,
         "subjectId": 2,
         "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី១",
-        "pdf": "https://drive.google.com/file/d/1ZVjAxu-V6ktBj_7P73yCRxZzJYGyaPY4/preview",
+        "pdf": "https://drive.google.com/file/d/1zp6PTTumcsjaaC47O8c0o-3aLseyRu2o/preview",
         "author": "ក្រសួងអប់រំ យុវជន និងកីឡា",
         "description": "សៀវភៅសិក្សាគោលគណិតវិទ្យា ថ្នាក់ទី១ សម្រាប់សិស្សានុសិស្សសិក្សាមូលដ្ឋានគ្រឹះដំបូងនៃលេខ និងប្រមាណវិធីបូកដកសាមញ្ញ។",
         "content": {
@@ -100,7 +100,60 @@ const grade1 = [
                 }
             ]
         }
+    },
+    {
+        "id": 62,
+        "classId": 1,
+        "subjectId": 2,
+        "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី១ ភាគ១",
+        "pdf": "https://drive.google.com/file/d/1saD4Cg48D9qy7nFoc4bgMDEeVB4phFPq/preview",
+        "author": "ក្រសួងអប់រំ យុវជន និងកីឡា",
+        "description": "សៀវភៅសិក្សាគោលគណិតវិទ្យា ថ្នាក់ទី១ ភាគ១។",
+        "content": {
+            "intro": "សៀវភៅសិក្សាគោលគណិតវិទ្យាថ្នាក់ទី១ ភាគ១ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា។",
+            "sections": []
+        }
+    },
+    {
+        "id": 63,
+        "classId": 1,
+        "subjectId": 2,
+        "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី១ ភាគ២",
+        "pdf": "https://drive.google.com/file/d/1X9TxCWS96gWCIFCk2tKlrqfJuMhzmp00/preview",
+        "author": "ក្រសួងអប់រំ យុវជន និងកីឡា",
+        "description": "សៀវភៅសិក្សាគោលគណិតវិទ្យា ថ្នាក់ទី១ ភាគ២។",
+        "content": {
+            "intro": "សៀវភៅសិក្សាគោលគណិតវិទ្យាថ្នាក់ទី១ ភាគ២ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា។",
+            "sections": []
+        }
+    },
+    {
+        "id": 64,
+        "classId": 1,
+        "subjectId": 2,
+        "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី១ ភាគ៣",
+        "pdf": "https://drive.google.com/file/d/1iQWhkEOBkpVFKuumXlYh9zVaZeUvQxJy/preview",
+        "author": "ក្រសួងអប់រំ យុវជន និងកីឡា",
+        "description": "សៀវភៅសិក្សាគោលគណិតវិទ្យា ថ្នាក់ទី១ ភាគ៣។",
+        "content": {
+            "intro": "សៀវភៅសិក្សាគោលគណិតវិទ្យាថ្នាក់ទី១ ភាគ៣ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា។",
+            "sections": []
+        }
+    },
+    {
+        "id": 65,
+        "classId": 1,
+        "subjectId": 2,
+        "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី១ ភាគ៤",
+        "pdf": "https://drive.google.com/file/d/14g0FMl0uH28w36_F5-uDG5G1Rvu85Sug/preview",
+        "author": "ក្រសួងអប់រំ យុវជន និងកីឡា",
+        "description": "សៀវភៅសិក្សាគោលគណិតវិទ្យា ថ្នាក់ទី១ ភាគ៤។",
+        "content": {
+            "intro": "សៀវភៅសិក្សាគោលគណិតវិទ្យាថ្នាក់ទី១ ភាគ៤ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា។",
+            "sections": []
+        }
     }
+
 ];
 
 export default grade1;
