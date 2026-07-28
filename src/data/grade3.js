@@ -3,8 +3,8 @@ const grade3 = [
         "id": 58,
         "classId": 3,
         "subjectId": 2,
-        "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី៣",
-        "pdf": "https://drive.google.com/file/d/1mmDreYgHjn99UCd0TBfu-wv78M3LuWXI/preview",
+        "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី៣​ ភាគ១",
+        "pdf": "https://drive.google.com/file/d/1Kv38g6WnQ53CIFhcWrjlRc-9kT_Aevaw/preview",
         "author": "ក្រសួងអប់រំ យុវជន និងកីឡា",
         "description": "សៀវភៅសិក្សាគោលគណិតវិទ្យា ថ្នាក់ទី៣ សម្រាប់សិស្សានុសិស្សសិក្សាមូលដ្ឋានគ្រឹះចំនួនធំជាងមុន វិធីគុណ វិធីចែក និងធរណីមាត្រ។",
         "content": {
@@ -50,7 +50,47 @@ const grade3 = [
                 }
             ]
         }
-    }
+    },
+    {
+        "id": 59,
+        "classId": 3,
+        "subjectId": 2,
+        "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី៣ ភាគ​២",
+        "pdf": "https://drive.google.com/file/d/1m2d2sm5FAnB92FxUp_rfSkc_O8Zj0PWd/preview",
+        "author": "ក្រសួងអប់រំ យុវជន និងកីឡា",
+        "description": "សៀវភៅសិក្សាគោលគណិតវិទ្យា ថ្នាក់ទី៣ ភាគ២។",
+        "content": {
+            "intro": "សៀវភៅសិក្សាគោលគណិតវិទ្យាថ្នាក់ទី៣ ភាគ២ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា។",
+            "sections": []
+        }
+    },
+    {
+        "id": 60,
+        "classId": 3,
+        "subjectId": 2,
+        "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី៣ ភាគ៣",
+        "pdf": "https://drive.google.com/file/d/1YjK3iURY6rOvPuwq_e-5hzeMrUoa6fN3/preview",
+        "author": "ក្រសួងអប់រំ យុវជន និងកីឡា",
+        "description": "សៀវភៅសិក្សាគោលគណិតវិទ្យា ថ្នាក់ទី៣ ភាគ៣។",
+        "content": {
+            "intro": "សៀវភៅសិក្សាគោលគណិតវិទ្យាថ្នាក់ទី៣ ភាគ៣ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា។",
+            "sections": []
+        }
+    },
+    {
+        "id": 61,
+        "classId": 3,
+        "subjectId": 2,
+        "title": "សៀវភៅសិក្សាគោល គណិតវិទ្យា ថ្នាក់ទី៣ ភាគ៤",
+        "pdf": "https://drive.google.com/file/d/1xdqyb2l2pdKshhhHHX1ToZjJf7JJxyIx/preview",
+        "author": "ក្រសួងអប់រំ យុវជន និងកីឡា",
+        "description": "សៀវភៅសិក្សាគោលគណិតវិទ្យា ថ្នាក់ទី៣ ភាគ៤។",
+        "content": {
+            "intro": "សៀវភៅសិក្សាគោលគណិតវិទ្យាថ្នាក់ទី៣ ភាគ៤ ស្របតាមកម្មវិធីសិក្សារបស់ក្រសួងអប់រំ យុវជន និងកីឡា។",
+            "sections": []
+        }
+    },
+
 ];
 
 export default grade3;
